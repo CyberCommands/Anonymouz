@@ -13,7 +13,7 @@ Anonymouz tool makes the user  as anonymous as possible on linux systems. This t
 
 ## Installation
 ```
-git clone https://github.com/Anonymouz-cmd/Anonymouz.git
+git clone https://github.com/CyberCommads/Anonymouz.git
 ```
 ```
 cd Anonymouz/
