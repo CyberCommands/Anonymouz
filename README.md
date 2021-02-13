@@ -1,5 +1,6 @@
 # Anonymouz
-[![](https://img.shields.io/badge/platform-linux%20%7C%20.sgv)]
+![](https://img.shields.io/badge/platform-linux%20%7C%20.sgv)
+
 Anonymouz tool makes the user  as anonymous as possible on linux systems. This tool is only for testing and educational purposes and can only be used where strict consent has been given. Do not use it for illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. The author assumes no liability and are not responsible for any misuse or damage caused by this tool and software. Finally, don't forget that there is never a hundred percent security on the internet!
 
   ## Features
